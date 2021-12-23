@@ -1,0 +1,2 @@
+Pelicula{nombre=spiderman}
+Pelicula{nombre=hulk}
